@@ -18,9 +18,9 @@ en-GB:
     pin_errors:
       following: You must be already following the person you want to endorse
     posts:
-      one: Post
-      other: Posts
-    posts_tab_heading: Posts
+      one: Pulse
+      other: Pulses
+    posts_tab_heading: Pulses
     self_follow_error: Following your own account is not allowed
   admin:
     account_actions:
@@ -200,7 +200,7 @@ en-GB:
         destroy_instance: Purge Domain
         destroy_ip_block: Delete IP rule
         destroy_relay: Delete Relay
-        destroy_status: Delete Post
+        destroy_status: Delete Pulse
         destroy_unavailable_domain: Delete Unavailable Domain
         destroy_user_role: Destroy Role
         disable_2fa_user: Disable 2FA
@@ -235,7 +235,7 @@ en-GB:
         update_domain_block: Update Domain Block
         update_ip_block: Update IP rule
         update_report: Update Report
-        update_status: Update Post
+        update_status: Update Pulse
         update_user_role: Update Role
       actions:
         approve_appeal_html: "%{name} approved moderation decision appeal from %{target}"
@@ -265,7 +265,7 @@ en-GB:
         destroy_instance_html: "%{name} purged domain %{target}"
         destroy_ip_block_html: "%{name} deleted rule for IP %{target}"
         destroy_relay_html: "%{name} deleted the relay %{target}"
-        destroy_status_html: "%{name} removed post by %{target}"
+        destroy_status_html: "%{name} removed Pulse by %{target}"
         destroy_unavailable_domain_html: "%{name} stopped delivery to domain %{target}"
         destroy_user_role_html: "%{name} deleted %{target} role"
         disable_2fa_user_html: "%{name} disabled two factor requirement for user %{target}"
